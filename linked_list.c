@@ -198,7 +198,7 @@ void reverse(struct node **head)
    }
 }
 
-// Bubble sort
+// Selection sort
 void sort_list(struct node **head)
 {
     if(*head == NULL)
