@@ -163,6 +163,9 @@ int main(int argc, char *argv[])
     add_node(&head, 19);
     add_node(&head, 20);
     add_node(&head, 21);
+    add_node(&head, 22);
+    add_node(&head, 23);
+    add_node(&head, 24);
     inorder(head);
     printf("\n");
     preorder(head);
